@@ -1,4 +1,4 @@
-20152213411512301
+20185142376858835
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6236,6 +6236,146 @@ capacitor tantalum
 0
 2
 2
+CherryMX_KailhSocket_LED
+CherryMX_1.00u_KailhSocket_LED
+Cherry MX switch footprint. Size: 1.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: 2 pin LED
+CherryMX 1.00u KailhSocket LED
+0
+4
+4
+CherryMX_KailhSocket_LED
+CherryMX_1.25u_KailhSocket_LED
+Cherry MX switch footprint. Size: 1.25u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: 2 pin LED
+CherryMX 1.25u KailhSocket LED
+0
+4
+4
+CherryMX_KailhSocket_LED
+CherryMX_1.50u_KailhSocket_LED
+Cherry MX switch footprint. Size: 1.50u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: 2 pin LED
+CherryMX 1.50u KailhSocket LED
+0
+4
+4
+CherryMX_KailhSocket_LED
+CherryMX_1.75u_KailhSocket_LED
+Cherry MX switch footprint. Size: 1.75u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: n/a, Lighting: 2 pin LED
+CherryMX 1.75u KailhSocket LED
+0
+4
+4
+CherryMX_KailhSocket_LED
+CherryMX_2.00u_KailhSocket_LED
+Cherry MX switch footprint. Size: 2.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: 2 pin LED
+CherryMX 2.00u KailhSocket LED
+0
+4
+4
+CherryMX_KailhSocket_LED
+CherryMX_2.25u_KailhSocket_LED
+Cherry MX switch footprint. Size: 2.25u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: 2 pin LED
+CherryMX 2.25u KailhSocket LED
+0
+4
+4
+CherryMX_KailhSocket_LED
+CherryMX_2.50u_KailhSocket_LED
+Cherry MX switch footprint. Size: 2.50u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: 2 pin LED
+CherryMX 2.50u KailhSocket LED
+0
+4
+4
+CherryMX_KailhSocket_LED
+CherryMX_2.75u_KailhSocket_LED
+Cherry MX switch footprint. Size: 2.75u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: 2 pin LED
+CherryMX 2.75u KailhSocket LED
+0
+4
+4
+CherryMX_KailhSocket_LED
+CherryMX_3.00u_KailhSocket_LED
+Cherry MX switch footprint. Size: 3.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: 2 pin LED
+CherryMX 3.00u KailhSocket LED
+0
+4
+4
+CherryMX_KailhSocket_LED
+CherryMX_4.00u_KailhSocket_LED
+Cherry MX switch footprint. Size: 4.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: 2 pin LED
+CherryMX 4.00u KailhSocket LED
+0
+4
+4
+CherryMX_KailhSocket_LED
+CherryMX_4.50u_KailhSocket_LED
+Cherry MX switch footprint. Size: 4.50u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: 2 pin LED
+CherryMX 4.50u KailhSocket LED
+0
+4
+4
+CherryMX_KailhSocket_LED
+CherryMX_5.50u_KailhSocket_LED
+Cherry MX switch footprint. Size: 5.50u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: 2 pin LED
+CherryMX 5.50u KailhSocket LED
+0
+4
+4
+CherryMX_KailhSocket_LED
+CherryMX_6.00u_KailhSocket_LED
+Cherry MX switch footprint. Size: 6.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: 2 pin LED
+CherryMX 6.00u KailhSocket LED
+0
+4
+4
+CherryMX_KailhSocket_LED
+CherryMX_6.25u_KailhSocket_LED
+Cherry MX switch footprint. Size: 6.25u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: 2 pin LED
+CherryMX 6.25u KailhSocket LED
+0
+4
+4
+CherryMX_KailhSocket_LED
+CherryMX_6.50u_KailhSocket_LED
+Cherry MX switch footprint. Size: 6.50u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: 2 pin LED
+CherryMX 6.50u KailhSocket LED
+0
+4
+4
+CherryMX_KailhSocket_LED
+CherryMX_7.00u_KailhSocket_LED
+Cherry MX switch footprint. Size: 7.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: 2 pin LED
+CherryMX 7.00u KailhSocket LED
+0
+4
+4
+CherryMX_KailhSocket_LED
+CherryMX_8.00u_KailhSocket_LED
+Cherry MX switch footprint. Size: 8.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: 2 pin LED
+CherryMX 8.00u KailhSocket LED
+0
+4
+4
+CherryMX_KailhSocket_LED
+CherryMX_9.00u_KailhSocket_LED
+Cherry MX switch footprint. Size: 9.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: 2 pin LED
+CherryMX 9.00u KailhSocket LED
+0
+4
+4
+CherryMX_KailhSocket_LED
+CherryMX_9.75u_KailhSocket_LED
+Cherry MX switch footprint. Size: 9.75u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: 2 pin LED
+CherryMX 9.75u KailhSocket LED
+0
+4
+4
+CherryMX_KailhSocket_LED
+CherryMX_10.00u_KailhSocket_LED
+Cherry MX switch footprint. Size: 10.00u, Mount type: Plate, Using Kailh Socket: yes, Stabilizer: Plate mounted, Lighting: 2 pin LED
+CherryMX 10.00u KailhSocket LED
+0
+4
+4
 Connector
 Banana_Jack_1Pin
 Single banana socket, footprint - 6mm drill
